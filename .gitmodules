@@ -1,0 +1,9 @@
+[submodule "gRPCREST"]
+	path = gRPCREST
+	url = https://github.com/KHYehor/gRPCREST
+[submodule "gRPCBalancer"]
+	path = gRPCBalancer
+	url = https://github.com/KHYehor/gRPCBalancer
+[submodule "gRPCGolang"]
+	path = gRPCGolang
+	url = https://github.com/KHYehor/gRPCGolang
